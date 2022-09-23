@@ -1,2 +1,4 @@
-## 🤓 Bootcamp Québec Java Digital
+## 🚀 Bootcamp Québec Java Digital
+
+### 📎 Repositório para atividades relacionadas ao Bootcamp.
 
