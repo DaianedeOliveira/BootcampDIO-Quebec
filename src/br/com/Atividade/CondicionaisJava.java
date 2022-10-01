@@ -14,8 +14,12 @@ public class CondicionaisJava {
 			System.out.println("Saldo final:" +  " " + "R$" + saldo);
 			
 		}
+		
+		// while
+
+		}
 	
 }
-	}
+	
 
 
